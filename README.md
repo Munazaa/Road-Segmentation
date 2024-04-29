@@ -16,5 +16,5 @@ The proposed method is compared with three state-of-the-art deep learning models
 ## Conclusion
 The proposed method showcases promising results in road segmentation, especially in handling complex road structures and achieving better connectivity of road segments. Future work may include fine-tuning approaches for even more qualitative results in diverse geographical areas.
 
-For more details, please refer to the full paper <href="link_to_paper.pd](https://ieeexplore.ieee.org/abstract/document/10282859)">here</a>
+For more details, please refer to the full paper [here](https://ieeexplore.ieee.org/abstract/document/10282859)
 .
